@@ -1,0 +1,4 @@
+labor-6 / blocking kesz!
+labor-6 / interrupt kesz!
+labor-6 / moving average kesz!
+labor-6 / sajat blokkolo kesz?
